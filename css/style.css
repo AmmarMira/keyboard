@@ -1,0 +1,74 @@
+ body{
+  background: #b1baa8;
+}
+.wrap{
+  width: 400px;
+  height: 300px;
+  background: #242424;
+  margin: 40px auto;
+}
+.bg{
+  width: 100%;
+  height: 62px;
+  background: url('http://im68.gulfup.com/BMz51n.png');
+  background-size: cover;
+}
+.keyboardletters{
+ 	width: 100%;
+ 	height: 145px;
+ 	float: left;
+ 	position: relative;
+ 	margin-top: 15px;
+}
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  padding-left: 25px;
+  letter-spacing: 21px;
+  font-size: 1.5em;
+  line-height: 52px;
+  font-weight: lighter;
+}
+.fa-long-arrow-up{
+  color: #c2952d;
+  position: relative;
+  left: 15px;
+
+}
+.fa-long-arrow-left{
+	color: #4a4a4a;
+	position: absolute;
+	right: 15px;
+	bottom: 3px;
+}
+.bottomofkeyboard{
+	float: left;
+	margin-top: 9px;
+}
+.spacing-numbers{
+  letter-spacing: 0;
+}
+.fa-globe{
+  color: #4a4a4a;
+}
+.spacebox{
+  width: 90px;
+  height: 25px;
+  background: #4a4a4a;
+  border-radius: 3px;
+  display: inline-block;
+  margin-left: -26px;
+
+}
+.fa-microphone{
+  margin-left: -30px;
+  color: #4a4a4a;
+}
+.circleicon{
+  background: #bf932c;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  float: right;
+  margin: -44px -32px;
+}
